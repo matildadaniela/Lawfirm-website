@@ -38,7 +38,7 @@ export const Hem = () =>{
                 – på svenska
               </h1>
               <h2 className="text-xl text-[#CBBBA5] mb-8 " >
-                Professionell och trygg juridisk hjälp på svenska på distans
+                Professionell och trygg juridisk hjälp på svenska på distans – hembesök möjliga i Nyland
               </h2>
 
               {/*Kontakta mig knappen*/}

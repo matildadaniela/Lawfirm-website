@@ -19,7 +19,7 @@ export const Dataskydd = () => {
           <div>
             <h3 className="text-xl font-normal text-[#7A4F2C] mb-1">Personuppgiftsansvarig och kontaktperson</h3>
             <p>Robin Lindberg</p>
-            <p>Adress: Kockängen 7 A 26, 02250 ESBO (ej besöksadress)</p>
+            <p>Adress: Kyrkotorget 9 G 13, 06100 BORGÅ (ej besöksadress)</p>
             <p>Telefonnummer: 045 78 75 86 87</p>
             <p>E-postadress: contact(at)robinlindberg.fi</p>
           </div>

@@ -43,7 +43,7 @@ export const Kontakta = () => {
             <h3 className="text-2xl font-normal text-[#7A4F2C] mb-2 flex items-center gap-2">
               <MapPin /> Möten & plats
             </h3>
-            <p>Jag är bosatt i Esbo men har inget fast kontor. Jag erbjuder videomöten, telefonsamtal och e-postkontakt.</p>
+            <p>Jag är bosatt i Borgå, men har inget kontor. Jag erbjuder kontakt per videomöten, telefonsamtal och e-post. I Nyland kan jag även komma på hembesök, om kunden så önskar, i fall man når adressen med kollektivtrafiken.</p>
 
             {/*<div className="mt-4">
               <p>Möten kan hållas:</p>
