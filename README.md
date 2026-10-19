@@ -1,12 +1,73 @@
-# React + Vite
+# Law Firm Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive website developed for a Finnish law firm, focusing on estate inventory (*bouppteckning*) services.
 
-Currently, two official plugins are available:
+The project was developed as a freelance web development assignment, with an emphasis on modern design, usability, and clear presentation of legal services.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
 
-## Expanding the ESLint configuration
+- **React** – Component-based frontend development
+- **JavaScript** – Application logic
+- **Vite** – Development environment and build tool
+- **Tailwind CSS** – Responsive styling
+- **Framer Motion** – Animations and transitions
+- **React Helmet** – Document metadata management
+- **Lucide React & Font Awesome** – Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design for desktop and mobile devices
+- Information about estate inventory and related legal services
+- Reusable React components
+- Modern interface with animations
+- Structured content and document metadata
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/matildadaniela/Lawfirm-website.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Lawfirm-website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## Available Scripts
+
+- `npm run dev` – Start the development server
+- `npm run build` – Build the application for production
+- `npm run preview` – Preview the production build locally
+- `npm run lint` – Run ESLint
+
+## Project Background
+
+This website was developed as a freelance project for a law firm in Finland. The objective was to create a professional online presence that makes legal information easier to access and understand.
+
+## Author
+
+Matilda Lindberg
